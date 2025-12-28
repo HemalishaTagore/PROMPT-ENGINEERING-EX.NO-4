@@ -45,6 +45,8 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+# Output:
 
+[expt4 prmpt.pdf](https://github.com/user-attachments/files/24359109/expt4.prmpt.pdf)
 
 # Result: The various types of Prompts are executed successfully with generated the report.
